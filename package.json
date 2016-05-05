@@ -1,0 +1,14 @@
+{
+  "name": "my_chat_example",
+  "version": "1.0.0",
+  "description": "my first node and socket.io project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Airiel D. Salvatore",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
